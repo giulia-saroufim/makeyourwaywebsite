@@ -1,0 +1,22 @@
+.btn-blue {
+	background-color: #054683;
+	padding: 8px 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Quicksand',sans-serif;
+}
+
+
+.btn-blue-2 {
+	background-color: #054683;
+	padding: 8px 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Quicksand',sans-serif;
+	width: 15%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}

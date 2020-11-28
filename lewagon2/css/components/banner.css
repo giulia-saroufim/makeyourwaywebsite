@@ -1,0 +1,27 @@
+.banner {
+	background-image: url(../../images/homepage.jpg);
+	color: white;
+	padding: 5px 5px;
+	background-size: cover;
+	background-position: center;
+
+}
+
+.banner h1 {
+	font-size: 40px;
+	text-align: right;
+}
+
+.banner h2 {
+    margin-bottom: 50px !important;
+    font-weight: lighter;
+    text-align: right;
+    display: flex;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.banner btn-blue {
+	margin-bottom: 50px;
+	text-align:center;
+}
